@@ -8,3 +8,5 @@ Use this simple web application, built with React, to query through any movie yo
 - OMDb API
 - Local Storage
 - Bootstrap
+
+Created by Matthew Rapp.
